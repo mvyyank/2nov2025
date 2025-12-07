@@ -204,9 +204,9 @@
 
   // Sequence timings (in milliseconds)
   const gifSequence = [
-    { src: 'https://s12.gifyu.com/images/b3UxB.gif', duration: 50000, text: '' },
-    { src: 'https://s12.gifyu.com/images/b3UKI.gif', duration: 3000, text: 'still loading. . .' },
-    { src: 'https://s12.gifyu.com/images/b3UHr.gif', duration: 5000, text: '(pov)' }
+    { src: 'https://s12.gifyu.com/images/b3UxB.gif', duration: 1000, text: '' },
+    { src: 'https://s12.gifyu.com/images/b3UKI.gif', duration: 1000, text: 'still loading. . .' },
+    { src: 'https://s12.gifyu.com/images/b3UHr.gif', duration: 1000, text: '(pov)' }
   ];
 
   let index = 0;
